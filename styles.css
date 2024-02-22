@@ -1,0 +1,21 @@
+body {
+    background-image:
+     url(https://content.fortune.com/wp-content/uploads/2016/08/tec-09-01-16-laura-weidman-powers.jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-size: cover;
+}
+
+table, th, td {
+    border:1px solid;
+    border-collapse: collapse;
+    color: white;
+}
+
+h1{
+    color: white;
+}
+
+p{
+    color: white;
+}
